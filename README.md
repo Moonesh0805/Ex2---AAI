@@ -46,9 +46,9 @@ print(result2)
 ```
 ## Output :
 ### Result-1:
-![alt text](<Screenshot 2025-04-11 105909.png>)
+![image](https://github.com/user-attachments/assets/c60fd825-a9e7-4d38-a23c-9234d684b057)
 ### Result-2
-![alt text](<Screenshot 2025-04-11 105915.png>)
+![image](https://github.com/user-attachments/assets/75598ae7-88d0-45db-99db-1560cb96237d)
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method
 
